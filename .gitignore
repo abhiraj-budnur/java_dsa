@@ -1,0 +1,21 @@
+# macOS system files
+.DS_Store
+
+# Eclipse project files
+*.classpath
+*.project
+*.settings/
+
+# Java build output
+/bin/
+/build/
+/out/
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# OS-specific
+Thumbs.db
+ehthumbs.db
+Desktop.ini
